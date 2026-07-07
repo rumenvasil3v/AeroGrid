@@ -1,0 +1,15 @@
+// Option one
+1. open docker desktop and run docker run -d -p 8080:80 rumenvasil3v/flagging-anomalies-turbines
+
+2. watch the output flagging anomalies in turbines
+
+
+// Option two
+1. open the project through docker desktop
+
+2. in the terminal write docker compose up --build
+
+// Third option
+1. open project in favourite IDE
+
+2. run python read_telemetry.py in terminal
